@@ -9,11 +9,11 @@
 ## Qbittorrent
 **1** - Install Qbittorrent. <br />
 **2** - Set Qubittorrent Web UI: <br />
-      - Tools --> Preferences --> Web UI. <br />
-      - Enable Web User Interface (Remote control). <br />
-      - IP address = 0 and Port = 8080. <br />
-      - Set Username and Password. <br />
-      - Click Applay and OK. <br />
+  - Tools --> Preferences --> Web UI. <br />
+  - Enable Web User Interface (Remote control). <br />
+  - IP address = 0 and Port = 8080. <br />
+  - Set Username and Password. <br />
+  - Click Applay and OK. <br />
 
 ## Download env.yml from Git
 **1** - Download env.yml file from: [Download](https://github.com/Yoas1/BotOS). <br />
@@ -22,8 +22,9 @@
 **5** - After the bot runs, you can edit it anytime and send it to the bot. <br />
 
 ## Docker
-**1** - Pull the BotOS image: **__docker pull yoas1/bot-os__** <br />
-**2** - Start the bot with auto-start in boot: **dockr run -d -v <docker_volume_path>:/home/Donloads --restart=always yoas1/bot-os**
+**1** - Image Docker-hub site: [BotOS](https://hub.docker.com/r/yoas1/bot-os). <br />
+**2** - Pull the BotOS image: **__docker pull yoas1/bot-os__** <br />
+**3** - Start the bot with auto-start in boot: **dockr run -d -v <docker_volume_path>:/home/Donloads --restart=always yoas1/bot-os**
 
 # Now start use your bot :)
 ## More features will be added!
