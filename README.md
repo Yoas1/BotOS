@@ -1,3 +1,4 @@
+![](https://visitor-badge.glitch.me/badge?page_id=Yoas1.BotOs)
 # Bot-OS
 ## Create a new telegram-bot ##
 **1** - Search Botfather in telegram. <br />
