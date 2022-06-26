@@ -18,7 +18,7 @@
 ## Docker
 **1** - Image Docker-hub site: [BotOS](https://hub.docker.com/r/yoas1/bot-os). <br />
 **2** - Pull the BotOS image: **__docker pull yoas1/bot-os:2.1__** <br />
-**3** - Start the bot with auto-start in boot: **docker run -d -v <path_to_save_downloads>:/home/Downloads -v <path_to_save_data>:/root/.local/share/data/qBittorrent/ -v <path_to_save_data>:/root/.config/qBittorrent/ -p 8080:8080 yoas1/botos:2.1**
+**3** - Start the bot with auto-start in boot: **docker run -d -v <path_to_save_downloads>:/home/Downloads -v <path_to_save_data>:/root/.local/share/data/qBittorrent/ -v <path_to_save_data>:/root/.config/qBittorrent/ -p 8080:8080 yoas1/bot-os:2.1**
 
 
 ## Qbityorrent
