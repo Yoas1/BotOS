@@ -12,7 +12,7 @@
 **1** - Download env.yml file from: [Download](https://github.com/Yoas1/BotOS). <br />
 **2** - Edit the env.yml file, instructions are in the file. <br />
 **3** - Save the env.yml file in the <path_to_save_downloads>. <br />
-**5** - After the bot runs, you can edit it anytime and send it to the bot. <br />
+**4** - After the bot runs, you can edit it anytime and send it to the bot. <br />
 
 
 ## Docker
